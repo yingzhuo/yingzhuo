@@ -8,9 +8,3 @@ I'm a Software Engineering in China 🇨🇳, Full Stack Java developer <br/> <b
 - ⚡️ Technologies I work with: Java Spring SpringBoot SpringCloud Docker Kubernetes Golang and more ....
 - 👨‍💻 All of my projects are available  [here](https://github.com/yingzhuo?tab=repositories)
 - 👯 Looking for an internship or opportunity.
-
-### My GitHub Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yingzhuo&hide=css,html)
-
-### My GitHub stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=yingzhuo&show_icons=true)
